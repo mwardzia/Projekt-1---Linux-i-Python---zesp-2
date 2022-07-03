@@ -1,0 +1,144 @@
+/root/PycharmProjects/pythonProjectSDA/venv/bin/python /root/PycharmProjects/pythonProjectSDA/Projekt1-Linux-i-Python.py
+Interfejs sieciowy: eth0
+ Moje IP: 192.168.0.17
+ moj MAC: 08:00:27:db:96:6a
+ moja maska podsieci: 255.255.255.0
+
+******** Skanowanie sieci (IP) dla wybranego zakresu ****
+
+adres IP: 192.168.0.12, adres MAC: 08:00:27:6d:92:5a
+adres IP: 192.168.0.15, adres MAC: d8:cb:8a:52:46:87
+
+******** Skanowanie portow dla wybranego ip: 192.168.0.12****
+
+Port: 0, protokol TCP, usluga = 0
+Port: 1, protokol TCP, usluga = tcpmux
+Port: 2, protokol TCP, usluga = 2
+Port: 3, protokol TCP, usluga = 3
+Port: 4, protokol TCP, usluga = 4
+Port: 5, protokol TCP, usluga = 5
+Port: 6, protokol TCP, usluga = 6
+Port: 7, protokol TCP, usluga = echo
+Port: 8, protokol TCP, usluga = 8
+Port: 9, protokol TCP, usluga = discard
+Port: 10, protokol TCP, usluga = 10
+Port: 11, protokol TCP, usluga = systat
+Port: 12, protokol TCP, usluga = 12
+Port: 13, protokol TCP, usluga = daytime
+Port: 14, protokol TCP, usluga = 14
+Port: 15, protokol TCP, usluga = netstat
+Port: 16, protokol TCP, usluga = 16
+Port: 17, protokol TCP, usluga = qotd
+Port: 18, protokol TCP, usluga = 18
+Port: 19, protokol TCP, usluga = chargen
+Port: 20, protokol TCP, usluga = ftp_data
+Port: 21, protokol TCP, usluga = ftp
+Port: 22, protokol TCP, usluga = ssh
+Port: 23, protokol TCP, usluga = telnet
+Port: 24, protokol TCP, usluga = 24
+Port: 25, protokol TCP, usluga = smtp
+Port: 26, protokol TCP, usluga = 26
+Port: 27, protokol TCP, usluga = 27
+Port: 28, protokol TCP, usluga = 28
+Port: 29, protokol TCP, usluga = 29
+Port: 30, protokol TCP, usluga = 30
+Port: 31, protokol TCP, usluga = 31
+Port: 32, protokol TCP, usluga = 32
+Port: 33, protokol TCP, usluga = 33
+Port: 34, protokol TCP, usluga = 34
+Port: 35, protokol TCP, usluga = 35
+Port: 36, protokol TCP, usluga = 36
+Port: 37, protokol TCP, usluga = time
+Port: 38, protokol TCP, usluga = 38
+Port: 39, protokol TCP, usluga = 39
+Port: 40, protokol TCP, usluga = 40
+Port: 41, protokol TCP, usluga = 41
+Port: 42, protokol TCP, usluga = 42
+Port: 43, protokol TCP, usluga = whois
+Port: 44, protokol TCP, usluga = 44
+Port: 45, protokol TCP, usluga = 45
+Port: 46, protokol TCP, usluga = 46
+Port: 47, protokol TCP, usluga = 47
+Port: 48, protokol TCP, usluga = 48
+Port: 49, protokol TCP, usluga = tacacs
+Port: 50, protokol TCP, usluga = 50
+Port: 51, protokol TCP, usluga = 51
+Port: 52, protokol TCP, usluga = 52
+Port: 53, protokol TCP, usluga = domain
+Port: 54, protokol TCP, usluga = 54
+Port: 55, protokol TCP, usluga = 55
+Port: 56, protokol TCP, usluga = 56
+Port: 57, protokol TCP, usluga = 57
+Port: 58, protokol TCP, usluga = 58
+Port: 59, protokol TCP, usluga = 59
+Port: 60, protokol TCP, usluga = 60
+Port: 61, protokol TCP, usluga = 61
+Port: 62, protokol TCP, usluga = 62
+Port: 63, protokol TCP, usluga = 63
+Port: 64, protokol TCP, usluga = 64
+Port: 65, protokol TCP, usluga = 65
+Port: 66, protokol TCP, usluga = 66
+Port: 67, protokol TCP, usluga = 67
+Port: 68, protokol TCP, usluga = 68
+Port: 69, protokol TCP, usluga = 69
+Port: 70, protokol TCP, usluga = gopher
+Port: 71, protokol TCP, usluga = 71
+Port: 72, protokol TCP, usluga = 72
+Port: 73, protokol TCP, usluga = 73
+Port: 74, protokol TCP, usluga = 74
+Port: 75, protokol TCP, usluga = 75
+Port: 76, protokol TCP, usluga = 76
+Port: 77, protokol TCP, usluga = 77
+Port: 78, protokol TCP, usluga = 78
+Port: 79, protokol TCP, usluga = finger
+Port: 80, protokol TCP, usluga = http
+Port: 81, protokol TCP, usluga = 81
+Port: 82, protokol TCP, usluga = 82
+Port: 83, protokol TCP, usluga = 83
+Port: 84, protokol TCP, usluga = 84
+Port: 85, protokol TCP, usluga = 85
+Port: 86, protokol TCP, usluga = 86
+Port: 87, protokol TCP, usluga = 87
+Port: 88, protokol TCP, usluga = kerberos
+Port: 89, protokol TCP, usluga = 89
+Port: 90, protokol TCP, usluga = 90
+Port: 91, protokol TCP, usluga = 91
+Port: 92, protokol TCP, usluga = 92
+Port: 93, protokol TCP, usluga = 93
+Port: 94, protokol TCP, usluga = 94
+Port: 95, protokol TCP, usluga = 95
+Port: 96, protokol TCP, usluga = 96
+Port: 97, protokol TCP, usluga = 97
+Port: 98, protokol TCP, usluga = 98
+Port: 99, protokol TCP, usluga = 99
+Port: 100, protokol TCP, usluga = 100
+
+******** Grabing banner dla wybranego ip: 192.168.0.12 ****
+
+192.168.0.12 : 21 - 220 (vsFTPd 3.0.5)
+
+192.168.0.12 : 22 - SSH-2.0-OpenSSH_8.9p1 Ubuntu-3
+
+192.168.0.12 : 80 - HTTP/1.1 400 Bad Request
+Date: Sun, 03 Jul 2022 12:38:50 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Content-Length: 301
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.52 (Ubuntu) Server at 127.0.1.1 Port 80</address>
+</body></html>
+
+***** Hackowanie SSH *******
+Uzytkownik: uranus haslo: butterfly konto: uranus
+Uzytkownik: root haslo: 666 konto: root
+
+Process finished with exit code 0
